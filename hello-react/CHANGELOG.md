@@ -1,12 +1,5 @@
 # Changelog
 
-## [0.4.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello-react@v0.3.0...hello-react@v0.4.0) (2024-12-08)
-
-
-### Features
-
-* example_react ([29dc3f7](https://github.com/safizn/release-please-monorepo-example-forked/commit/29dc3f75ced7c11161ceb3ac1de95bc8f68e0e68))
-
 ## [0.3.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello-react-v0.2.0...hello-react@v0.3.0) (2024-12-08)
 
 

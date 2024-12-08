@@ -1,0 +1,17 @@
+name: Rust CI
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'hello-rust/**'
+      - '.github/workflows/hello-rust-ci.yml'
+
+jobs:
+  test-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test
+        run: |
+          echo "Testing hello-rust ci. done."
+

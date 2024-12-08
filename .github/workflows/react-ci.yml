@@ -1,0 +1,16 @@
+name: React CI
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'hello-react/**'
+      - '.github/workflows/hello-react-ci.yml'
+
+jobs:
+  test-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test
+        run: |
+          echo "Testing hello-rust ci. done."
