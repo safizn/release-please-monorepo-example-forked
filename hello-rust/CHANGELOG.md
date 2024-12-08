@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello_rust@v0.3.0...hello_rust@v0.4.0) (2024-12-08)
+
+
+### Features
+
+* example ([79749f8](https://github.com/safizn/release-please-monorepo-example-forked/commit/79749f8d4aad5d7fa894763708d81b3e78cda8ba))
+
 ## [0.3.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello_rust-v0.2.0...hello_rust@v0.3.0) (2024-12-08)
 
 
