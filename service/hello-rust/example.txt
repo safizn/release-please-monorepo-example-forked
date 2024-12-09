@@ -1,1 +1,1 @@
-new for rust only
+new for rust only 2
