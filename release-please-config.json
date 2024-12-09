@@ -21,8 +21,7 @@
       "component": "root-app", 
       "release-type": "rust", 
       "exclude-paths": [
-        "service/hello-react",
-        "service/hello-rust",
+        "service/**",
         ".release-please-config.json",
         ".release-please-manifest.json",
         "Cargo.toml"
