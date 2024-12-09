@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.6.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello_rust@v0.5.0...hello_rust@v0.6.0) (2024-12-09)
+
+
+### Features
+
+* adding feacture x to component A ([#10](https://github.com/safizn/release-please-monorepo-example-forked/issues/10)) ([7488b35](https://github.com/safizn/release-please-monorepo-example-forked/commit/7488b355c804d2bbc0ebe3be4f5659f2eee0c05d))
+* adding feature x for component a ([#8](https://github.com/safizn/release-please-monorepo-example-forked/issues/8)) ([d9dc898](https://github.com/safizn/release-please-monorepo-example-forked/commit/d9dc898d76487347e395f3f954046d57060726ca))
+
 ## [0.5.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello_rust@v0.4.0...hello_rust@v0.5.0) (2024-12-09)
 
 
