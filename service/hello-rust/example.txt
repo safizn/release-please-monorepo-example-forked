@@ -1,1 +1,1 @@
-new for rust only 2
+new feature rust
