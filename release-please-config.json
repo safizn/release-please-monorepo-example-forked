@@ -1,9 +1,33 @@
 {
+  "plugins": [
+    { "type": "cargo-workspace", "merge": false }, 
+    {
+      "type": "linked-versions",
+      "groupName": "services",
+      "components": [
+        "react", 
+        "rust"
+      ],
+      "merge": false
+    }
+  ],
+
   "include-component-in-tag": true,
   "include-v-in-tag": true,
   "tag-separator": "@",
   "separate-pull-requests": false,
   "packages": {
+    ".": {
+      "component": "root-app", 
+      "release-type": "rust", 
+      "exclude-paths": [
+        "service/**",
+        ".release-please-config.json",
+        ".release-please-manifest.json",
+        "Cargo.toml"
+      ]
+    }, 
+  
     "service/hello-react": {
       "component": "react",
       "release-type": "node"
