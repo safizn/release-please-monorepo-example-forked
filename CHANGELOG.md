@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/app@v0.6.0...app@v0.7.0) (2024-12-09)
+
+
+### Features
+
+* feature rust rust ([ec0c000](https://github.com/safizn/release-please-monorepo-example-forked/commit/ec0c000d525bb99f35d1af15795c28426e22b78b))
+
 ## [0.6.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/app-v0.5.0...app@v0.6.0) (2024-12-09)
 
 
