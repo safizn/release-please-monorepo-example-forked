@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.1](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello-react@v0.8.0...hello-react@v0.8.1) (2024-12-09)
+
+
+### Bug Fixes
+
+* a new fix that should be released by itself ([a469183](https://github.com/safizn/release-please-monorepo-example-forked/commit/a469183c04aa5fa3f238c4108152d4740425f327))
+
 ## [0.8.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello-react@v0.7.0...hello-react@v0.8.0) (2024-12-09)
 
 
