@@ -20,3 +20,7 @@ target/
 /.vscode/
 /*.iml
 *.orig
+
+# Added by cargo
+
+/target

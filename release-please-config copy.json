@@ -1,0 +1,39 @@
+{
+  "plugins": [
+    { "type": "cargo-workspace", "merge": false }, 
+    {
+      "type": "linked-versions",
+      "groupName": "Services",
+      "components": [
+        "@service/web-server"
+      ],
+      "merge": false
+    }
+  ],
+
+  "include-component-in-tag": true,
+  "include-v-in-tag": true,
+  "tag-separator": "@",
+  "separate-pull-requests": false,
+  "packages": {      
+
+    ".": {
+      "component": "donation-app", 
+      "release-type": "rust", 
+      "exclude-paths": [
+        "service/web-server",
+        ".release-please-config.json",
+        ".release-please-manifest.json",
+        "Cargo.toml"
+      ]
+    }, 
+
+    "hello-react": {
+      "release-type": "node"
+    },
+    "hello-rust": {
+      "release-type": "rust"
+    }
+  },
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+}
