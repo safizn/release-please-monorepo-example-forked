@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.8.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello-rust@v0.7.0...hello-rust@v0.8.0) (2024-12-09)
+
+
+### Features
+
+* adding feacture x to component A ([3aec16f](https://github.com/safizn/release-please-monorepo-example-forked/commit/3aec16faf3c5fb95ff3486ff6f4671ac39ddab91))
+* r implementation feature ([bc89603](https://github.com/safizn/release-please-monorepo-example-forked/commit/bc896032a5284f5086af8a4be66081539d766d79))
+
 ## [0.7.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello-rust-v0.6.0...hello-rust@v0.7.0) (2024-12-09)
 
 

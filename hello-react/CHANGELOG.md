@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello-react@v0.6.0...hello-react@v0.7.0) (2024-12-09)
+
+
+### Features
+
+* adding feacture x to component A ([3aec16f](https://github.com/safizn/release-please-monorepo-example-forked/commit/3aec16faf3c5fb95ff3486ff6f4671ac39ddab91))
+
 ## [0.6.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello-react@v0.5.0...hello-react@v0.6.0) (2024-12-09)
 
 
