@@ -1,5 +1,5 @@
 {
-  "service/hello-react": "0.11.0",
+  "service/hello-react": "0.12.0",
   "service/hello-rust": "0.10.0",
-  ".": "0.2.0"
+  ".": "0.3.0"
 }
