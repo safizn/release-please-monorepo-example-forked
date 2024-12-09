@@ -4,7 +4,7 @@
   "tag-separator": "@",
   "separate-pull-requests": false,
   "packages": {
-    "/service/hello-react": {
+    "service/hello-react": {
       "release-type": "node"
     },
     "service/hello-rust": {

@@ -1,9 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "hello-react": "0.8.1",
-  "hello-rust": "0.9.0"
-=======
-  "service/hello-react": "0.8.0",
+  "service/hello-react": "0.8.1",
   "service/hello-rust": "0.9.0"
->>>>>>> Stashed changes
 }
