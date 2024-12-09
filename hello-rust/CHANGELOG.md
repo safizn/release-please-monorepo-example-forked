@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello_rust@v0.4.0...hello_rust@v0.5.0) (2024-12-09)
+
+
+### Features
+
+* new rust feature A ([4717cc3](https://github.com/safizn/release-please-monorepo-example-forked/commit/4717cc3da98cff064118595f1a9eeac7dd2741f8))
+
 ## [0.4.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello_rust@v0.3.0...hello_rust@v0.4.0) (2024-12-08)
 
 

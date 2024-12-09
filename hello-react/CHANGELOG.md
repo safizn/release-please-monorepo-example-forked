@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.5.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello-react@v0.4.0...hello-react@v0.5.0) (2024-12-09)
+
+
+### Features
+
+* new react feature B ([ae5ffa5](https://github.com/safizn/release-please-monorepo-example-forked/commit/ae5ffa535924905901d9242542255bdaf821b9dd))
+* repo workflow ([ac2671b](https://github.com/safizn/release-please-monorepo-example-forked/commit/ac2671bd756ced191ef9340e07f27755633e6b40))
+* repo workflow ([98fac85](https://github.com/safizn/release-please-monorepo-example-forked/commit/98fac85ffe57b398a0a96a78f09e23a426bab4f5))
+
 ## [0.4.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/hello-react@v0.3.0...hello-react@v0.4.0) (2024-12-08)
 
 
