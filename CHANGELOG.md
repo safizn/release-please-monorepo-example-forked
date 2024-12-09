@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/root-app@v0.2.0...root-app@v0.3.0) (2024-12-09)
+
+
+### Features
+
+* rust only ([cb2342e](https://github.com/safizn/release-please-monorepo-example-forked/commit/cb2342e0d2a66a75a8dc7bac3c993ab6966b9447))
+
 ## [0.2.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/root-app-v0.1.0...root-app@v0.2.0) (2024-12-09)
 
 
