@@ -2,7 +2,7 @@
   "plugins": [
     {
       "type": "linked-versions",
-      "groupName": "services",
+      "groupName": "service-group",
       "components": [
         "react", 
         "rust"
