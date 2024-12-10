@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.12.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/react@v0.12.0...react@v0.12.0) (2024-12-10)
+
+
+### Miscellaneous Chores
+
+* **react:** Synchronize service-group versions
+
 ## [0.12.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/react@v0.11.0...react@v0.12.0) (2024-12-09)
 
 
