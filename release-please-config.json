@@ -1,15 +1,6 @@
 {
   "plugins": [
     { "type": "cargo-workspace", "merge": false }, 
-    {
-      "type": "linked-versions",
-      "groupName": "services",
-      "components": [
-        "react", 
-        "rust"
-      ],
-      "merge": false
-    }
   ],
 
   "include-component-in-tag": true,

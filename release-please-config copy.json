@@ -3,9 +3,10 @@
     { "type": "cargo-workspace", "merge": false }, 
     {
       "type": "linked-versions",
-      "groupName": "Services",
+      "groupName": "services",
       "components": [
-        "@service/web-server"
+        "react", 
+        "rust"
       ],
       "merge": false
     }
