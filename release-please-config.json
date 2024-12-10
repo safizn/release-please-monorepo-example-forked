@@ -1,4 +1,7 @@
 {
+  "plugins": [
+    { "type": "cargo-workspace", "merge": true }
+  ],
 
   "include-component-in-tag": true,
   "include-v-in-tag": true,
