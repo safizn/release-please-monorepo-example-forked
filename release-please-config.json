@@ -7,7 +7,7 @@
         "react", 
         "rust"
       ],
-      "merge": false
+      "merge": true
     }
   ],
 
