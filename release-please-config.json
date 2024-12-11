@@ -7,7 +7,7 @@
         "tightly-coupled-1",
         "tightly-coupled-2"
       ],
-      "merge": false
+      "merge": true
     }
   ],
 
