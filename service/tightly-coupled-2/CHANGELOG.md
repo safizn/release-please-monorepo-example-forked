@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.25.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/@coupled-2@v0.24.0...@coupled-2@v0.25.0) (2024-12-11)
+
+
+### Miscellaneous Chores
+
+* **@coupled-2:** Synchronize service-group versions
+
 ## [0.24.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/@coupled-2-v0.23.0...@coupled-2@v0.24.0) (2024-12-11)
 
 
