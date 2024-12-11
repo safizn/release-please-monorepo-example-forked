@@ -7,7 +7,7 @@
         "@coupled-1",
         "@coupled-2"
       ],
-      "merge": false
+      "merge": true
     }
   ],
 
