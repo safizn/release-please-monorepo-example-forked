@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.17.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/@react@v0.16.0...@react@v0.17.0) (2024-12-11)
+
+
+### Features
+
+* react 1 ([1e9b1fe](https://github.com/safizn/release-please-monorepo-example-forked/commit/1e9b1fe5501b45c2b432da50488667ca97819ae2))
+
 ## [0.16.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/@react-v0.15.0...@react@v0.16.0) (2024-12-11)
 
 
