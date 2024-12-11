@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.13.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/coupled-1-v0.12.0...coupled-1@v0.13.0) (2024-12-11)
+
+
+### Features
+
+* adding feacture x to component A ([3aec16f](https://github.com/safizn/release-please-monorepo-example-forked/commit/3aec16faf3c5fb95ff3486ff6f4671ac39ddab91))
+* adding feacture x to component A ([#10](https://github.com/safizn/release-please-monorepo-example-forked/issues/10)) ([7488b35](https://github.com/safizn/release-please-monorepo-example-forked/commit/7488b355c804d2bbc0ebe3be4f5659f2eee0c05d))
+* adding feature x for component a ([#8](https://github.com/safizn/release-please-monorepo-example-forked/issues/8)) ([d9dc898](https://github.com/safizn/release-please-monorepo-example-forked/commit/d9dc898d76487347e395f3f954046d57060726ca))
+
+
+### Bug Fixes
+
+* root update ([1b98f3a](https://github.com/safizn/release-please-monorepo-example-forked/commit/1b98f3a641a0fb41d41e71d8c0be204043bf2112))
+
 ## [0.12.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/react@v0.12.0...react@v0.12.0) (2024-12-10)
 
 
