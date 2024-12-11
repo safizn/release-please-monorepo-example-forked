@@ -4,4 +4,4 @@ version = 4
 
 [[package]]
 name = "release-please-monorepo-example-forked"
-version = "0.11.0"
+version = "0.12.0"
