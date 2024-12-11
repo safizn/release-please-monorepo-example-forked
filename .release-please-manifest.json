@@ -1,7 +1,7 @@
 {
   "service/hello-rust": "0.13.0",
   "service/hello-react": "0.17.0",
-  "service/tightly-coupled-1": "0.25.0",
   "service/tightly-coupled-2": "0.26.0",
+  "service/tightly-coupled-1": "0.26.0",
   ".": "0.16.0"
 }
