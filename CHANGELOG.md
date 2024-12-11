@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/app@v0.7.0...app@v0.8.0) (2024-12-11)
+
+
+### Features
+
+* dummy ([a720b6b](https://github.com/safizn/release-please-monorepo-example-forked/commit/a720b6b3f218bf4b9913acad6f67adcad8c5426f))
+
 ## [0.7.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/app@v0.6.0...app@v0.7.0) (2024-12-09)
 
 
