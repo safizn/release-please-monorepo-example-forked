@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.22.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/coupled-1-v0.21.0...coupled-1@v0.22.0) (2024-12-11)
+
+
+### Features
+
+* adding feacture x to component A ([3aec16f](https://github.com/safizn/release-please-monorepo-example-forked/commit/3aec16faf3c5fb95ff3486ff6f4671ac39ddab91))
+* adding feacture x to component A ([#10](https://github.com/safizn/release-please-monorepo-example-forked/issues/10)) ([7488b35](https://github.com/safizn/release-please-monorepo-example-forked/commit/7488b355c804d2bbc0ebe3be4f5659f2eee0c05d))
+* adding feature x for component a ([#8](https://github.com/safizn/release-please-monorepo-example-forked/issues/8)) ([d9dc898](https://github.com/safizn/release-please-monorepo-example-forked/commit/d9dc898d76487347e395f3f954046d57060726ca))
+* couple-1 only 1 ([9f2c5b7](https://github.com/safizn/release-please-monorepo-example-forked/commit/9f2c5b7ba694d86de0f2ec1fb26a31220a8b02df))
+* couple-1 shoudl have same verison ([6508550](https://github.com/safizn/release-please-monorepo-example-forked/commit/650855045afe44658d8eca067e17d5e2b0cba49d))
+* couple-1 shoudl have same verison 2 ([4bf7c49](https://github.com/safizn/release-please-monorepo-example-forked/commit/4bf7c49fb536d593fbd9acfd29aedf981a712f32))
+* coupled-1 new ([f701e3c](https://github.com/safizn/release-please-monorepo-example-forked/commit/f701e3cc343d56bfd6c3de800ccfeb70d04b2405))
+* coupled-1 sep ([31aee66](https://github.com/safizn/release-please-monorepo-example-forked/commit/31aee6611e89e2570d95146829cad039284b1706))
+* coupled-1 sep 1 ([ee67c3e](https://github.com/safizn/release-please-monorepo-example-forked/commit/ee67c3ea2b15ba9a6f039f763d30feaa2e5aa6b4))
+* coupled-1 sep 3 ([e0d3e61](https://github.com/safizn/release-please-monorepo-example-forked/commit/e0d3e6136154ec574d110252782ef7cc34d5be02))
+
+
+### Bug Fixes
+
+* root update ([1b98f3a](https://github.com/safizn/release-please-monorepo-example-forked/commit/1b98f3a641a0fb41d41e71d8c0be204043bf2112))
+
 ## [0.21.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/coupled-1-v0.20.0...coupled-1@v0.21.0) (2024-12-11)
 
 
