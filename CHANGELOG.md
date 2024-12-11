@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/app@v0.9.0...app@v0.10.0) (2024-12-11)
+
+
+### Features
+
+* coupled-2 only ([2f3a8d5](https://github.com/safizn/release-please-monorepo-example-forked/commit/2f3a8d53c9a42aafd5791698fc75b8fa20cfb11e))
+
 ## [0.9.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/app@v0.8.0...app@v0.9.0) (2024-12-11)
 
 
