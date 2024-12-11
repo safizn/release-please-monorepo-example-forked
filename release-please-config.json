@@ -4,8 +4,8 @@
       "type": "linked-versions",
       "groupName": "service-group",
       "components": [
-        "coupled-1",
-        "coupled-2"
+        "@coupled-1",
+        "@coupled-2"
       ],
       "merge": true
     }
@@ -32,20 +32,20 @@
     }, 
   
     "service/hello-react": {
-      "component": "react",
+      "component": "@react",
       "release-type": "node"
     },
     "service/hello-rust": {
-      "component": "rust",
+      "component": "@rust",
       "release-type": "rust"
     },
 
     "service/tightly-coupled-1": {
-      "component": "coupled-1",
+      "component": "@coupled-1",
       "release-type": "node"
     }, 
     "service/tightly-coupled-2": {
-      "component": "coupled-2",
+      "component": "@coupled-2",
       "release-type": "rust"
     }
 
