@@ -22,6 +22,8 @@
       "exclude-paths": [
         "service/hello-react/**",
         "service/hello-rust/**",
+        "service/tightly-coupled-1/**",
+        "service/tightly-coupled-2/**",
         ".release-please-config.json",
         ".release-please-manifest.json",
         "Cargo.toml"
