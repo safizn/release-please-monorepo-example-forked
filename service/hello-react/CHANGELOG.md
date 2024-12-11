@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.15.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/react@v0.14.0...react@v0.15.0) (2024-12-11)
+
+
+### Features
+
+* react only 1111 ([11acc53](https://github.com/safizn/release-please-monorepo-example-forked/commit/11acc53be29bebab86dd41283209b3b6a5b9972d))
+
 ## [0.14.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/react@v0.13.0...react@v0.14.0) (2024-12-11)
 
 
