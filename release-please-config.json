@@ -4,8 +4,8 @@
       "type": "linked-versions",
       "groupName": "service-group",
       "components": [
-        "react", 
-        "rust"
+        "tightly-coupled-1",
+        "tightly-coupled-2"
       ],
       "merge": false
     }
@@ -35,7 +35,17 @@
     "service/hello-rust": {
       "component": "rust",
       "release-type": "rust"
+    },
+
+    "service/tightly-coupled-1": {
+      "component": "coupled-1",
+      "release-type": "node"
+    }, 
+    "service/tightly-coupled-2": {
+      "component": "coupled-2",
+      "release-type": "rust"
     }
+
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
 }
