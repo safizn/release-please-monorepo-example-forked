@@ -7,7 +7,7 @@
         "tightly-coupled-1",
         "tightly-coupled-2"
       ],
-      "merge": true
+      "merge": false
     }
   ],
 
@@ -15,6 +15,7 @@
   "include-v-in-tag": true,
   "tag-separator": "@",
   "separate-pull-requests": false,
+
   "packages": {
     ".": {
       "component": "app", 
