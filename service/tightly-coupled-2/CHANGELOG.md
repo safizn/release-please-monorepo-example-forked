@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.15.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/coupled-2@v0.14.0...coupled-2@v0.15.0) (2024-12-11)
+
+
+### Features
+
+* coupled-2 new ([50c8dc6](https://github.com/safizn/release-please-monorepo-example-forked/commit/50c8dc66df1f2fb6bc3f86be06de7b8164f7bf17))
+
 ## [0.14.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/coupled-2@v0.13.0...coupled-2@v0.14.0) (2024-12-11)
 
 
