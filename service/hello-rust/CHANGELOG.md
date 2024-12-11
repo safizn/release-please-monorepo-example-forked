@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.13.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/@rust-v0.12.0...@rust@v0.13.0) (2024-12-11)
+
+
+### Features
+
+* adding feacture x to component A ([3aec16f](https://github.com/safizn/release-please-monorepo-example-forked/commit/3aec16faf3c5fb95ff3486ff6f4671ac39ddab91))
+* adding feacture x to component A ([#10](https://github.com/safizn/release-please-monorepo-example-forked/issues/10)) ([7488b35](https://github.com/safizn/release-please-monorepo-example-forked/commit/7488b355c804d2bbc0ebe3be4f5659f2eee0c05d))
+* adding feature x for component a ([#8](https://github.com/safizn/release-please-monorepo-example-forked/issues/8)) ([d9dc898](https://github.com/safizn/release-please-monorepo-example-forked/commit/d9dc898d76487347e395f3f954046d57060726ca))
+* feature rust rust ([ec0c000](https://github.com/safizn/release-please-monorepo-example-forked/commit/ec0c000d525bb99f35d1af15795c28426e22b78b))
+* rust feature p ([511c86b](https://github.com/safizn/release-please-monorepo-example-forked/commit/511c86b9c63214e011bdde4ae2e29a036c8910b2))
+* rust feature! ([015a5e7](https://github.com/safizn/release-please-monorepo-example-forked/commit/015a5e7e2feede1ae451af482162a262dcebd5bf))
+* rust only ([cb2342e](https://github.com/safizn/release-please-monorepo-example-forked/commit/cb2342e0d2a66a75a8dc7bac3c993ab6966b9447))
+* rust only 2 ([2e69258](https://github.com/safizn/release-please-monorepo-example-forked/commit/2e6925814119cd3f9fb14f400f86400ec94ffb22))
+
+
+### Bug Fixes
+
+* root update ([1b98f3a](https://github.com/safizn/release-please-monorepo-example-forked/commit/1b98f3a641a0fb41d41e71d8c0be204043bf2112))
+
 ## [0.12.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/rust@v0.11.0...rust@v0.12.0) (2024-12-10)
 
 
