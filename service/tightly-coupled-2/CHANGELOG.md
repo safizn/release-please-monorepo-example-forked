@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.20.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/coupled-2-v0.19.0...coupled-2@v0.20.0) (2024-12-11)
+
+
+### Features
+
+* adding feacture x to component A ([3aec16f](https://github.com/safizn/release-please-monorepo-example-forked/commit/3aec16faf3c5fb95ff3486ff6f4671ac39ddab91))
+* adding feacture x to component A ([#10](https://github.com/safizn/release-please-monorepo-example-forked/issues/10)) ([7488b35](https://github.com/safizn/release-please-monorepo-example-forked/commit/7488b355c804d2bbc0ebe3be4f5659f2eee0c05d))
+* adding feature x for component a ([#8](https://github.com/safizn/release-please-monorepo-example-forked/issues/8)) ([d9dc898](https://github.com/safizn/release-please-monorepo-example-forked/commit/d9dc898d76487347e395f3f954046d57060726ca))
+* coupled-2 new ([50c8dc6](https://github.com/safizn/release-please-monorepo-example-forked/commit/50c8dc66df1f2fb6bc3f86be06de7b8164f7bf17))
+* coupled-2 only ([2f3a8d5](https://github.com/safizn/release-please-monorepo-example-forked/commit/2f3a8d53c9a42aafd5791698fc75b8fa20cfb11e))
+* coupled-2 sep ([1ca24d2](https://github.com/safizn/release-please-monorepo-example-forked/commit/1ca24d2bd8cea560e2f96cb041fb5ddee07ac0fb))
+* coupled-2 sep 2 ([2c370a3](https://github.com/safizn/release-please-monorepo-example-forked/commit/2c370a35c0ac7da72d385c3fdeceef647571da63))
+
+
+### Bug Fixes
+
+* root update ([1b98f3a](https://github.com/safizn/release-please-monorepo-example-forked/commit/1b98f3a641a0fb41d41e71d8c0be204043bf2112))
+
 ## [0.19.0](https://github.com/safizn/release-please-monorepo-example-forked/compare/coupled-2@v0.16.0...coupled-2@v0.19.0) (2024-12-11)
 
 
